@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.holder{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: repeat(2, 200px);
+
+}
+.item{
+    padding: 10px;
+}
+Footer
